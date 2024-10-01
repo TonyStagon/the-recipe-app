@@ -1,0 +1,35 @@
+.link-container {
+    display: flex;
+    /* Use flexbox for layout */
+    justify-content: center;
+    /* Center the links */
+    /* Background for visibility */
+    padding: 10px 0;
+    /* Padding for spacing */
+    position: fixed;
+    /* Fix to the top */
+    top: 0;
+    /* Align to the top */
+    width: 100%;
+    /* Full width */
+    z-index: 1000;
+    /* Ensure it’s on top of other content */
+}
+
+.link {
+    margin: 0 15px;
+    /* Space between links */
+    text-decoration: underline;
+    /* Remove underline */
+    color: #1242e0;
+    /* Link color */
+    font-size: 18px;
+    /* Font size */
+    transition: color 0.3s;
+    /* Smooth transition for color change */
+}
+
+.link:hover {
+    color: #f5ed84;
+    /* Change color on hover */
+}

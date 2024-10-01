@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "6648",
+      "name": "Arthur",
+      "surname": "Arhur",
+      "email": "Maatlane@gmaiil.com",
+      "username": "Maatla",
+      "password": "Maatla",
+      "profilePic": "0002.jpg"
+    }
+  ],
+  "recipes": [
+    {
+      "id": "048f",
+      "recipeName": "ChickenFredo",
+      "ingredients": "mayo",
+      "instructions": "Don't burn ",
+      "category": "Chicken",
+      "prepTime": "13 min",
+      "cookTime": "12 hours ",
+      "servings": "2"
+    }
+  ]
+}

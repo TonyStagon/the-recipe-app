@@ -1,0 +1,133 @@
+/* Apply background image and make it fill the whole page */
+
+body,
+html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: url('../assets/back.jpg') no-repeat center center/cover;
+}
+
+
+/* Ensure the body is set to flex to help center content */
+
+body {
+    display: flex;
+    justify-content: center;
+    /* Center horizontally */
+    align-items: center;
+    /* Center vertically */
+}
+
+
+/* Center the auth container and make it responsive */
+
+.auth-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    /* Full height */
+    width: 100%;
+    /* Full width  */
+    color: darkgreens;
+}
+
+
+/* Form styles */
+
+form {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 400px;
+    /* Width for larger screens */
+}
+
+
+/* Headings */
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+}
+
+
+/* Input fields */
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #d11111;
+}
+
+input:focus {
+    border-color: #ff7e5f;
+    outline: none;
+}
+
+
+/* Button styles */
+
+button {
+    width: 100%;
+    padding: 12px;
+    background-color: #ff7e5f;
+    color: rgb(96, 245, 9);
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #feb47b;
+}
+
+
+/* Responsive adjustments */
+
+@media (max-width: 600px) {
+    form {
+        padding: 20px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+    input,
+    button {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 768px) {
+    form {
+        max-width: 90%;
+        /* Makes form responsive */
+    }
+}
+
+@media (max-width: 1024px) {
+    form {
+        max-width: 80%;
+        /* Adjusts max-width for medium screens */
+    }
+}
+
+@media (max-width: 1200px) {
+    form {
+        max-width: 70%;
+        /* Further adjusts max-width for larger screens */
+    }
+}
