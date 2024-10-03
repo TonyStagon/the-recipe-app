@@ -1,25 +1,273 @@
 {
   "users": [
     {
-      "id": "6648",
+      "id": "d7d5",
+      "name": "Mapula",
+      "surname": "Mapula",
+      "email": "Mapula@gmail.com",
+      "username": "Mapula",
+      "password": "Mapula",
+      "profilePic": "Code Tribe 2.jpg"
+    },
+    {
+      "id": "76f4",
+      "name": "You",
+      "surname": "Yourname",
+      "email": "Yourname@gmail.om",
+      "username": "Yourname",
+      "password": "Yourname",
+      "profilePic": "Afm.jpg"
+    },
+    {
+      "id": "5a6b",
       "name": "Arthur",
-      "surname": "Arhur",
-      "email": "Maatlane@gmaiil.com",
-      "username": "Maatla",
-      "password": "Maatla",
-      "profilePic": "0002.jpg"
+      "surname": "Maatlane",
+      "email": "makoshearthur@gmaiil.com",
+      "username": "Arthur1234",
+      "password": "Arthur1234",
+      "profilePic": "Modern-Idolatry.webp"
+    },
+    {
+      "id": "88d3",
+      "name": "TonyStagon",
+      "surname": "TonyStagon",
+      "email": "TonyStagon@gan",
+      "username": "TonyStagon",
+      "password": "13TonyStagon",
+      "profilePic": "Code Tribe 2.jpg"
+    },
+    {
+      "id": "13ad",
+      "name": "Number4",
+      "surname": "Number4",
+      "email": "Number4@hjv",
+      "username": "Number4",
+      "password": "Number4",
+      "profilePic": "Code Tribe 2.jpg"
     }
   ],
   "recipes": [
     {
-      "id": "048f",
-      "recipeName": "ChickenFredo",
-      "ingredients": "mayo",
-      "instructions": "Don't burn ",
-      "category": "Chicken",
-      "prepTime": "13 min",
-      "cookTime": "12 hours ",
-      "servings": "2"
+      "id": "f4d5",
+      "recipeName": "kdjsb",
+      "ingredients": "jkb",
+      "instructions": "jkb",
+      "category": "kjb",
+      "prepTime": "kjb",
+      "cookTime": "kjb",
+      "servings": "8"
+    },
+    {
+      "id": "668a",
+      "recipeName": "jkhkj",
+      "ingredients": "ddkjs",
+      "instructions": "dkj",
+      "category": "jkhnk",
+      "prepTime": "kjh",
+      "cookTime": "kjh",
+      "servings": "5"
+    },
+    {
+      "id": "a0d9",
+      "recipeName": "dsjhb",
+      "ingredients": "kjsdb",
+      "instructions": "askjbd",
+      "category": "dkjb",
+      "prepTime": "dkub",
+      "cookTime": "kj",
+      "servings": "3"
+    },
+    {
+      "id": "a61a",
+      "name": "jkg",
+      "ingredients": [
+        "gjk"
+      ],
+      "instructions": "gjk",
+      "category": "gjk",
+      "preparationTime": "gjk",
+      "cookingTime": "gjk",
+      "servings": "8"
+    },
+    {
+      "id": "99b8",
+      "name": "Poland",
+      "ingredients": [
+        "Poland"
+      ],
+      "instructions": "Poland",
+      "category": "Poland",
+      "preparationTime": "Poland",
+      "cookingTime": "Poland",
+      "servings": "1"
+    },
+    {
+      "id": "ee97",
+      "name": "Arch",
+      "ingredients": [
+        "sdkjsf"
+      ],
+      "instructions": "jbk",
+      "category": "gjk",
+      "preparationTime": "gjk",
+      "cookingTime": "gjk",
+      "servings": "8"
+    },
+    {
+      "id": "0953",
+      "name": "jknk",
+      "ingredients": [
+        "sdkjsf"
+      ],
+      "instructions": "jbk",
+      "category": "gjk",
+      "preparationTime": "gjk",
+      "cookingTime": "gjk",
+      "servings": "8"
+    },
+    {
+      "id": "2301",
+      "name": "Arthur",
+      "ingredients": [
+        "sdkjsf"
+      ],
+      "instructions": "jbk",
+      "category": "gjk",
+      "preparationTime": "gjk",
+      "cookingTime": "gjk",
+      "servings": "8"
+    },
+    {
+      "id": "0625",
+      "name": "kjb",
+      "ingredients": [
+        "kjb"
+      ],
+      "instructions": "jk",
+      "category": "kjb",
+      "preparationTime": "jb",
+      "cookingTime": "jkb",
+      "servings": "3"
+    },
+    {
+      "id": "5498",
+      "name": "Arthurmmaa",
+      "ingredients": [
+        "kjb"
+      ],
+      "instructions": "jk",
+      "category": "kjb",
+      "preparationTime": "jb",
+      "cookingTime": "jkb",
+      "servings": "3"
+    },
+    {
+      "id": "e043",
+      "name": "Arthur",
+      "ingredients": [
+        "Maatal"
+      ],
+      "instructions": "nkl",
+      "category": "nlkn",
+      "preparationTime": "nkl",
+      "cookingTime": "nkl",
+      "servings": "22"
+    },
+    {
+      "id": "d542",
+      "name": "kjjkbb",
+      "ingredients": [
+        "bjk"
+      ],
+      "instructions": "bjk",
+      "category": "bjkb",
+      "preparationTime": "jbk",
+      "cookingTime": "bjk",
+      "servings": "433"
+    },
+    {
+      "id": "9d84",
+      "name": "ARHTUR",
+      "ingredients": [
+        "ARHTUT"
+      ],
+      "instructions": "ARHUT",
+      "category": "SAJDBKJB",
+      "preparationTime": "SDJKGB",
+      "cookingTime": "JKDB",
+      "servings": "786"
+    },
+    {
+      "id": "f955",
+      "name": "Beeutiful",
+      "ingredients": [
+        "Beeutiful"
+      ],
+      "instructions": "Beeutiful",
+      "category": "Beeutiful",
+      "preparationTime": "Beeutiful",
+      "cookingTime": "Beeutiful",
+      "servings": "4"
+    },
+    {
+      "id": "1b25",
+      "name": "Beeutiful",
+      "ingredients": [
+        "Beeutiful"
+      ],
+      "instructions": "Beeutiful",
+      "category": "Beeutiful",
+      "preparationTime": "Beeutiful",
+      "cookingTime": "Beeutiful",
+      "servings": "4"
+    },
+    {
+      "id": "ed48",
+      "name": "ALL",
+      "ingredients": [
+        "Beeutiful"
+      ],
+      "instructions": "Beeutiful",
+      "category": "Beeutiful",
+      "preparationTime": "Beeutiful",
+      "cookingTime": "Beeutiful",
+      "servings": "4"
+    },
+    {
+      "id": "2a70",
+      "name": "kdsbkjfb",
+      "ingredients": [
+        "jkb"
+      ],
+      "instructions": "jkb",
+      "category": "kjb",
+      "preparationTime": "jbk",
+      "cookingTime": "bjk",
+      "servings": "78"
+    },
+    {
+      "id": "4794",
+      "name": "Update",
+      "ingredients": [
+        "jkb"
+      ],
+      "instructions": "jkb",
+      "category": "kjb",
+      "preparationTime": "jbk",
+      "cookingTime": "bjk",
+      "servings": "78"
+    },
+    {
+      "id": "d22d",
+      "name": "jkb",
+      "ingredients": [
+        "bjk"
+      ],
+      "instructions": "Done",
+      "category": "asjkfbjgk ",
+      "preparationTime": "kjbkj",
+      "cookingTime": "jbkb",
+      "servings": "7"
     }
   ]
 }
